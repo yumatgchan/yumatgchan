@@ -1,6 +1,5 @@
-# Hi, I'm Mariem 👋
+# Hi, I'm Mariem Amin ヾ(•ω•`)o
 
-### Computer Science Student | Aspiring Software Developer
 #### I'm a Computer Science student at Capital University in Egypt. I am currently learning Game Development, Web Development and Problem Solving. I have made some practical projects using what I have learned.
 ---
 
