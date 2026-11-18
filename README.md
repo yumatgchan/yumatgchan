@@ -3,7 +3,7 @@
 #### I'm a Computer Science student at Capital University in Egypt. I am currently learning Game Development, Web Development and Problem Solving. I have made some practical projects using what I have learned.
 
 
-<img src="[https://tenor.com/hHgwmQwBGIH.gif](https://tenor.com/hHgwmQwBGIH.gif)" width="200" height="300" alt="Animated GIF"/>
+<img src="(https://tenor.com/view/meme-cat-cat-cat-meme-indonesia-gif-13600295483954663517)" width="200" height="300" alt="Animated GIF"/>
 
 ---
 
