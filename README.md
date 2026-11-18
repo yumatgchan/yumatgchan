@@ -3,7 +3,7 @@
 #### I'm a Computer Science student at Capital University in Egypt. I am currently learning Game Development, Web Development and Problem Solving. I have made some practical projects using what I have learned.
 
 
-<img src="https://tenor.com/view/meme-cat-cat-cat-meme-indonesia-gif-13600295483954663517" width="200" height="300" alt="Animated GIF"/>
+<img src="<div class="tenor-gif-embed" data-postid="12162961651257423699" data-share-method="host" data-aspect-ratio="0.937751" data-width="100%"><a href="https://tenor.com/view/nekomimiyu-mii-bonbonribbon-bunny-sanrio-gif-12162961651257423699">Nekomimiyu Mii Sticker</a>from <a href="https://tenor.com/search/nekomimiyu-stickers">Nekomimiyu Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>" width="200" height="300" alt="Animated GIF"/>
 
 ---
 
