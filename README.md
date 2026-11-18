@@ -57,7 +57,7 @@
 
 </p>
 
-## 📚 Areas of Interest
+## 📚 Interests
 
 - Software Engineering
 - Data Structures & Algorithms
@@ -91,7 +91,7 @@
   </a>
 
   
-![Profile Views](https://komarev.com/ghpvc/?username=yumatgchan&label=cats&color=blueviolet&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=yumatgchan&label=cats&color=blueviolet&style=flat) <img src="https://media1.tenor.com/m/tcBB8-T4ckoAAAAd/scuba-cat.gif" width="50" height="50" alt="Animated GIF"/>
 
 
 </p>
