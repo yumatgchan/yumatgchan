@@ -66,5 +66,25 @@ I'm a Computer Science student interested in software development, algorithms, a
 
 ## 📫 Connect With Me
 
-- **LinkedIn:** [My LinkedIn]([https://www.linkedin.com/in/mariem-tarek-59028932b/](https://www.linkedin.com/in/mariem-tarek-59028932b/))
-- **GitHub:** [My GitHub](https://github.com/yumatgchan)
+
+<h3>Connect With Me</h3>
+
+<p align="left">
+
+  <a href="https://github.com/yumatgchan" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+         width="40" height="40" alt="GitHub"/>
+  </a>
+
+  <a href="https://www.instagram.com/yumatgchan/" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F"
+         width="40" height="40" alt="Instagram"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/mariem-tarek-59028932b/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+         width="40" height="40" alt="LinkedIn"/>
+  </a>
+
+</p>
+
