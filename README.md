@@ -91,7 +91,7 @@
   </a>
 
   
-![Profile Views](https://komarev.com/ghpvc/?username=yumatgchan&label=PROFILE+VIEWS&color=blueviolet&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=yumatgchan&label=cats&color=blueviolet&style=flat)
 
 
 </p>
