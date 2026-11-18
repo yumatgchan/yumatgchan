@@ -1,7 +1,7 @@
 # Hi, I'm Mariem 👋
 
 ### Computer Science Student | Aspiring Software Developer
-
+---
 I'm a Computer Science student at Capital University. I am currently learning Game Development, Web Development and Problem Solving. I have made some practical projects using what I have learned.
 ---
 
