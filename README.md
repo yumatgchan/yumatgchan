@@ -4,8 +4,8 @@
 #### I'm a Computer Science student at Capital University in Egypt. I am currently learning Game Development, Web Development and Problem Solving. I have made some practical projects using what I have learned.
 
 
-<img src="https://media.tenor.com/IaGmxYNPTNwAAAAj/nasserq-ross.gif" width="200" height="400" alt="Animated GIF"/>
- <img src="https://media1.tenor.com/m/mLslFWSc_NsAAAAd/cherry.gif" width="700" height="400" alt="Animated GIF"/>
+<img src="https://media.tenor.com/IaGmxYNPTNwAAAAj/nasserq-ross.gif" width="100" height="400" alt="Animated GIF"/> <img src="https://media1.tenor.com/m/mLslFWSc_NsAAAAd/cherry.gif" width="600" height="300" alt="Animated GIF"/>
+
 
 ---
 
