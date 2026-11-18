@@ -1,6 +1,10 @@
 # Hi, I'm Mariem Tarek ヾ(•ω•`)o
 
 #### I'm a Computer Science student at Capital University in Egypt. I am currently learning Game Development, Web Development and Problem Solving. I have made some practical projects using what I have learned.
+
+
+<img src="(https://tenor.com/hHgwmQwBGIH.gif)" width="100" height="100" alt="Animated GIF"/>
+
 ---
 
 ## 💻 Technical Skills
