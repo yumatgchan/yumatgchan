@@ -62,6 +62,7 @@
 - Software Engineering
 - Data Structures & Algorithms
 - OOP
+- Machine Learning
 - Web Development
 - Gaming Development
 - Graphic Design
