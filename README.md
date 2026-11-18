@@ -89,6 +89,22 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
          width="40" height="40" alt="LinkedIn"/>
   </a>
+  
+<a href="https://codeforces.com/profile/MomoTG" target="_blank">
+    <img src="https://cdn.simpleicons.org/codeforces/1F8ACB"
+         width="40"
+         height="40"
+         alt="Codeforces"/>
+</a>
+
+<a href="https://www.kaggle.com/momotg" target="_blank">
+    <img src="https://cdn.simpleicons.org/kaggle/20BEFF"
+         width="40"
+         height="40"
+         alt="Kaggle"/>
+</a>
+
+
 
   
 ![Profile Views](https://komarev.com/ghpvc/?username=yumatgchan&label=cats&color=blueviolet&style=flat) <img src="https://media.tenor.com/V8CL2_YmJSUAAAAi/scuba-scuba-cat.gif" width="50" height="50" alt="Animated GIF"/>
