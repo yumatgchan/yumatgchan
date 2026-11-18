@@ -90,5 +90,9 @@
          width="40" height="40" alt="LinkedIn"/>
   </a>
 
+  
+![Profile Views](https://komarev.com/ghpvc/?username=yumatgchan&label=PROFILE+VIEWS&color=blueviolet&style=flat-square)
+
+
 </p>
 
