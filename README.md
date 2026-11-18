@@ -1,4 +1,5 @@
-# Hi, I'm Mariem Tarek ヾ(•ω•`)o
+# Hi, I'm Mariem Tarek ヾ(•ω•`)o <img src="https://media.tenor.com/qMuFLf_lt1MAAAAi/nekomimiyu-mii.gif" width="50" height="50" alt="Animated GIF"/>
+
 
 #### I'm a Computer Science student at Capital University in Egypt. I am currently learning Game Development, Web Development and Problem Solving. I have made some practical projects using what I have learned.
 
