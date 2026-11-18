@@ -2,8 +2,7 @@
 
 ### Computer Science Student | Aspiring Software Developer
 
-I'm a Computer Science student interested in software development, algorithms, and problem-solving. I enjoy building practical applications, exploring different technologies, and improving my programming skills through hands-on projects.
-
+I'm a Computer Science student at Capital University. I am currently learning Game Development, Web Development and Problem Solving. I have made some practical projects using what I have learned.
 ---
 
 ## 💻 Technical Skills
