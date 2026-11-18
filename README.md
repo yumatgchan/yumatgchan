@@ -9,8 +9,6 @@ I'm a Computer Science student interested in software development, algorithms, a
 ## 💻 Technical Skills
 
 
-<h3>Languages and Technologies</h3>
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
